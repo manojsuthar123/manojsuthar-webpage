@@ -607,8 +607,8 @@
 .u-section-6 .u-social-icons-1 {
   height: 48px;
   min-height: 16px;
-  width: 280px;
-  min-width: 120px;
+  width: 338px;
+  min-width: 146px;
   margin: 0 auto;
 }
 
@@ -622,15 +622,20 @@
 }
 
 .u-section-6 .u-icon-3 {
-  color: rgb(17, 17, 17) !important;
+  height: 100%;
+  color: rgb(0, 137, 203) !important;
 }
 
 .u-section-6 .u-icon-4 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-6 .u-icon-5 {
   height: 100%;
   color: rgb(197, 54, 164) !important;
 }
 
-.u-section-6 .u-icon-5 {
+.u-section-6 .u-icon-6 {
   height: 100%;
   color: rgb(203, 32, 39) !important;
 }
