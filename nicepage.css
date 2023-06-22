@@ -41478,22 +41478,45 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 150px;
+  min-height: 182px;
 }
 
 .u-header .u-text-1 {
   font-weight: 700;
-  margin: 40px auto 0;
+  margin: 53px 0 0;
 }
 
 .u-header .u-text-2 {
   font-size: 1.125rem;
-  margin: 20px auto 0;
+  margin: 19px auto 45px;
 }
-
-
-
-
+@media (max-width: 1199px) {
+  .u-header .u-text-1 {
+    font-size: 3rem;
+    margin-left: 366px;
+    margin-right: 366px;
+  }
+}
+@media (max-width: 991px) {
+  .u-header .u-text-1 {
+    margin-left: 280px;
+    margin-right: 280px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-text-1 {
+    margin-left: 210px;
+    margin-right: 210px;
+    font-size: 1.875rem;
+  }
+}
+@media (max-width: 575px) {
+  .u-header .u-text-1 {
+    margin-left: 132px;
+    margin-right: 132px;
+    font-size: 1.5rem;
+  }
+}
  .u-footer {
   background-image: none;
 }
