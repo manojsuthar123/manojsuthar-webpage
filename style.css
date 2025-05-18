@@ -92,6 +92,8 @@ section {
     padding: 4em 2em;
     background-color: #f9f9f9;
     text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 #projects h2 {
@@ -213,6 +215,8 @@ section {
     padding: 4em 2em;
     background-color: #f0f4f8;
     text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 #skills h2 {
@@ -260,6 +264,8 @@ section {
 #about {
     padding: 4em 2em;
     text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 #about h2 {
@@ -298,6 +304,8 @@ section {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     margin-top: 3em;
     transition: transform 0.3s ease-in-out;
+    max-width: 800px;
+    margin: 4em auto;
 }
 
 #follow-me h2 {
